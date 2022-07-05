@@ -1,0 +1,5 @@
+eder 19 4500
+lucas 21 6000
+helano 20 5500
+mateus 22 5600
+tiago 23 8990
